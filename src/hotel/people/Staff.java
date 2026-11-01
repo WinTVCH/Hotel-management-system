@@ -3,14 +3,14 @@ package hotel.people;
 public class Staff extends Person {
     
     private double salary;
-    private String shift,position;
+    private String shift;
     private int staffId;
+    private Role role;
 
-    public Staff(String name, String phone, String email, double salary, String shift, String position, int staffId) {
+    public Staff(String name, String phone, String email, double salary, String shift, int staffId) {
         super(name,phone,email);
         this.salary = salary;
         this.shift = shift;
-        this.position = position;
         this.staffId = staffId;
     }
 
@@ -20,10 +20,6 @@ public class Staff extends Person {
 
     public String getShift() {
         return shift;
-    }
-
-    public String getPosition() {
-        return position;
     }
 
     public int getStaffId() {
@@ -38,13 +34,18 @@ public class Staff extends Person {
         this.shift = shift;
     }
     
-    public void setPosition(String position) {
-        this.position = position;
-    }
-
     public void setStaffId(int staffId) {
         this.staffId = staffId;
     }
+
+    public Role getRole() {
+        return role;
+    }
+
+    public void setRole(Role role) {
+        this.role = role;
+    }
+
 
 
 

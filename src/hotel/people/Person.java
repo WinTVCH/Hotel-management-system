@@ -1,6 +1,6 @@
 package hotel.people;
 
-public class Person {
+public abstract class Person {
     String name,phone,email;
 
     public Person(String name, String phone, String email) {
