@@ -14,6 +14,10 @@ public class Staff extends Person {
         this.staffId = staffId;
     }
 
+    public Staff(String name, String phone, String email) {
+        super(name,phone,email);
+    }
+
     public double getSalary() {
         return salary;
     }
@@ -45,8 +49,5 @@ public class Staff extends Person {
     public void setRole(Role role) {
         this.role = role;
     }
-
-
-
 
 }

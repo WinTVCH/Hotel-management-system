@@ -1,7 +1,7 @@
 package hotel.people;
 
 public abstract class Person {
-    String name,phone,email;
+    private String name,phone,email;
 
     public Person(String name, String phone, String email) {
         this.name = name;
@@ -32,4 +32,7 @@ public abstract class Person {
     public String getEmail(){
         return email;
     }
+
+
+    
 }
