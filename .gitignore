@@ -1,1 +1,13 @@
 lib/javafx-sdk-*/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# VS Code specific files
+.vscode/
+bin/
