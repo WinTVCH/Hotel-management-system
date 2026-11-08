@@ -1,18 +1,18 @@
 package hotel.people;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Role {
     private String name ,roleId;
-    private int rank; 
+    private int rank;
 
-    //constructor
-    public Role(String name, String roleId, int rank){
+    public Role(String name, String roleId, int rank) {
         this.name = name;
         this.roleId = roleId;
         this.rank = rank;
-    
-    } 
+    }
 
-    //get
     public String getName() {
         return name;
     }
@@ -25,7 +25,6 @@ public class Role {
         return rank;
     }
 
-    //set
     public void setName(String name) {
         this.name = name;
     }
@@ -38,6 +37,15 @@ public class Role {
         this.rank = rank;
     }
 
+    public List<String> getMenuItems() {
+        List<String> items = new ArrayList<>();
+        items.add("Today");
+        return items;
+    }
 
+    @Override
+    public String toString() {
+        return name;
+    }
 
-}   
+}
