@@ -1,0 +1,9 @@
+[
+  {"id": 1, "room": "310", "job": "Clean before 14:00 arrival", "priority": "URGENT", "assignee": 2, "done": false, "createdAt": "2026-11-08T08:00:00"},
+  {"id": 2, "room": "112", "job": "Clean after check-out", "priority": "HIGH", "assignee": 0, "done": false, "createdAt": "2026-11-08T10:41:00"},
+  {"id": 3, "room": "B4", "job": "Air-con repair check", "priority": "HIGH", "assignee": 0, "done": false, "createdAt": "2026-11-07T16:30:00"},
+  {"id": 4, "room": "204", "job": "Daily tidy", "priority": "NORMAL", "assignee": 3, "done": false, "createdAt": "2026-11-08T07:30:00"},
+  {"id": 5, "room": "118", "job": "Restock minibar", "priority": "NORMAL", "assignee": 3, "done": false, "createdAt": "2026-11-08T07:35:00"},
+  {"id": 6, "room": "103", "job": "Replace curtain hook", "priority": "LOW", "assignee": 0, "done": false, "createdAt": "2026-11-06T11:00:00"},
+  {"id": 7, "room": "205", "job": "Deep clean carpet", "priority": "NORMAL", "assignee": 2, "done": true, "createdAt": "2026-11-05T09:00:00"}
+]

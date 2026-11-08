@@ -1,0 +1,7 @@
+[
+  {"name": "Cleaning kit", "quantity": 18, "reorderLevel": 10},
+  {"name": "Bath towels", "quantity": 60, "reorderLevel": 40},
+  {"name": "Shampoo bottles", "quantity": 35, "reorderLevel": 40},
+  {"name": "Toilet paper rolls", "quantity": 120, "reorderLevel": 50},
+  {"name": "Minibar water", "quantity": 22, "reorderLevel": 30}
+]

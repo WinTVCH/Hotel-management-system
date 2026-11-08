@@ -1,0 +1,6 @@
+[
+  {"code": "TEN", "type": "PERCENT", "description": "10% off", "value": 10},
+  {"code": "FIX200", "type": "FIXED", "description": "200 THB off", "value": 200},
+  {"code": "LONG3", "type": "LONG_STAY", "description": "Stay 3+ nights, 10% off", "value": 10, "minNights": 3},
+  {"code": "LONG7", "type": "LONG_STAY", "description": "Stay 7+ nights, 20% off", "value": 20, "minNights": 7}
+]

@@ -1,0 +1,9 @@
+[
+  {"id": "A1", "name": "Phimai temple visit", "minutes": 90, "extraCost": 0, "partnerId": "P1"},
+  {"id": "A2", "name": "Sai Ngam banyan grove", "minutes": 45, "extraCost": 0, "partnerId": "P1"},
+  {"id": "A3", "name": "Lunch at a local restaurant", "minutes": 60, "extraCost": 150, "partnerId": "P1"},
+  {"id": "A4", "name": "Old town ride", "minutes": 150, "extraCost": 0, "partnerId": "P2"},
+  {"id": "A5", "name": "Night market stop", "minutes": 45, "extraCost": 0, "partnerId": "P2"},
+  {"id": "A6", "name": "Market visit", "minutes": 60, "extraCost": 0, "partnerId": "P3"},
+  {"id": "A7", "name": "Cook 4 dishes", "minutes": 150, "extraCost": 200, "partnerId": "P3"}
+]

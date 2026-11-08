@@ -1,0 +1,9 @@
+[
+  {"username": "nok.reception", "password": "hotel123", "type": "STAFF", "ownerId": 1, "active": true},
+  {"username": "malee.hk", "password": "hotel123", "type": "STAFF", "ownerId": 2, "active": true},
+  {"username": "jintana.hk", "password": "hotel123", "type": "STAFF", "ownerId": 3, "active": true},
+  {"username": "putter.manager", "password": "hotel123", "type": "STAFF", "ownerId": 4, "active": true},
+  {"username": "arthit.tours", "password": "hotel123", "type": "STAFF", "ownerId": 5, "active": true},
+  {"username": "somchai.j@example.com", "password": "guest123", "type": "GUEST", "ownerId": 1, "active": true},
+  {"username": "ploy.c@example.com", "password": "guest123", "type": "GUEST", "ownerId": 8, "active": true}
+]

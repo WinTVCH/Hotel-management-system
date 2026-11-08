@@ -1,0 +1,5 @@
+[
+  {"id": "P1", "name": "Phimai Heritage Tours", "phone": "044-000-111", "commission": 15},
+  {"id": "P2", "name": "Korat Bike Tours", "phone": "044-000-222", "commission": 10},
+  {"id": "P3", "name": "Baan Cooking School", "phone": "044-000-333", "commission": 12}
+]

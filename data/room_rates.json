@@ -1,0 +1,5 @@
+[
+  {"name": "New Year peak", "roomType": "All", "from": "2026-12-28", "to": "2027-01-03", "percent": 20},
+  {"name": "Songkran", "roomType": "All", "from": "2027-04-12", "to": "2027-04-16", "percent": 15},
+  {"name": "Green season bungalow", "roomType": "Bungalow", "from": "2027-06-01", "to": "2027-09-30", "percent": -15}
+]

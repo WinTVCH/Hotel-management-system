@@ -1,0 +1,17 @@
+[
+  {"number": "101", "type": "Standard", "price": 1200, "status": "AVAILABLE"},
+  {"number": "102", "type": "Standard", "price": 1200, "status": "AVAILABLE"},
+  {"number": "103", "type": "Standard", "price": 1200, "status": "AVAILABLE"},
+  {"number": "107", "type": "Standard", "price": 1200, "status": "AVAILABLE"},
+  {"number": "112", "type": "Standard", "price": 1200, "status": "DIRTY"},
+  {"number": "118", "type": "Standard", "price": 1200, "status": "OCCUPIED"},
+  {"number": "204", "type": "Standard", "price": 1200, "status": "OCCUPIED"},
+  {"number": "205", "type": "Standard", "price": 1300, "status": "AVAILABLE"},
+  {"number": "206", "type": "Standard", "price": 1300, "status": "AVAILABLE"},
+  {"number": "310", "type": "Family", "price": 2200, "status": "DIRTY", "extraBeds": 0},
+  {"number": "311", "type": "Family", "price": 2200, "status": "AVAILABLE", "extraBeds": 0},
+  {"number": "312", "type": "Family", "price": 2200, "status": "AVAILABLE", "extraBeds": 1},
+  {"number": "B2", "type": "Bungalow", "price": 3500, "status": "OCCUPIED", "cleaningFee": 300},
+  {"number": "B3", "type": "Bungalow", "price": 3500, "status": "AVAILABLE", "cleaningFee": 300},
+  {"number": "B4", "type": "Bungalow", "price": 3500, "status": "OUT_OF_SERVICE", "cleaningFee": 300}
+]

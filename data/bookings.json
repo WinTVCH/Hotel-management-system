@@ -1,0 +1,16 @@
+[
+  {"code": "BK-24047", "guestId": 6, "rooms": ["112"], "checkIn": "2026-11-05", "checkOut": "2026-11-08", "status": "CHECKED_OUT", "channel": "ONLINE", "requests": ""},
+  {"code": "BK-24051", "guestId": 1, "rooms": ["204"], "checkIn": "2026-11-08", "checkOut": "2026-11-11", "status": "CHECKED_IN", "channel": "PHONE", "requests": "Quiet room",
+   "deposit": {"method": "Transfer", "amount": 1800, "reference": "SCB-889120", "paidAt": "2026-11-01T10:15:00"}},
+  {"code": "BK-24052", "guestId": 2, "rooms": ["B2"], "checkIn": "2026-11-08", "checkOut": "2026-11-10", "status": "CHECKED_IN", "channel": "WALK_IN", "requests": ""},
+  {"code": "BK-24055", "guestId": 3, "rooms": ["310", "311"], "checkIn": "2026-11-08", "checkOut": "2026-11-12", "status": "CONFIRMED", "channel": "ONLINE", "promotion": "LONG3", "requests": "Arriving 14:00",
+   "groupName": "Lee Family", "members": [3, 11, 12],
+   "deposit": {"method": "Transfer", "amount": 8000, "reference": "KBANK-55120", "paidAt": "2026-10-20T19:02:00"}},
+  {"code": "BK-24058", "guestId": 4, "rooms": ["107"], "checkIn": "2026-11-08", "checkOut": "2026-11-09", "status": "CONFIRMED", "channel": "ONLINE", "requests": ""},
+  {"code": "BK-24060", "guestId": 7, "rooms": ["B3"], "checkIn": "2026-11-10", "checkOut": "2026-11-12", "status": "CANCELLED", "channel": "PHONE", "requests": ""},
+  {"code": "BK-24061", "guestId": 5, "rooms": ["205"], "checkIn": "2026-11-08", "checkOut": "2026-11-13", "status": "CONFIRMED", "channel": "PHONE", "promotion": "LONG3", "requests": ""},
+  {"code": "BK-24063", "guestId": 8, "rooms": ["118"], "checkIn": "2026-11-06", "checkOut": "2026-11-10", "status": "CHECKED_IN", "channel": "ONLINE", "requests": ""},
+  {"code": "BK-24070", "guestId": 9, "rooms": ["206"], "checkIn": "2026-11-14", "checkOut": "2026-11-16", "status": "CONFIRMED", "channel": "WALK_IN", "promotion": "FIX200", "requests": ""},
+  {"code": "BK-24102", "guestId": 1, "rooms": ["B3"], "checkIn": "2026-12-24", "checkOut": "2026-12-27", "status": "CONFIRMED", "channel": "ONLINE", "promotion": "LONG3", "requests": "",
+   "deposit": {"method": "Card", "amount": 5130, "reference": "4242", "paidAt": "2026-11-02T21:40:00"}}
+]

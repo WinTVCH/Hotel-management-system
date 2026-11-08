@@ -1,0 +1,20 @@
+[
+  {"bookingCode": "BK-24047", "checkedInAt": "2026-11-05T14:20:00", "checkedOutAt": "2026-11-08T10:40:00",
+   "invoice": {"number": "INV-1079",
+     "lines": [{"item": "Room 112 Standard", "quantity": 3, "unitPrice": 1200, "amount": 3600}],
+     "payments": [{"method": "Card", "amount": 3600, "reference": "1881", "paidAt": "2026-11-08T10:38:00"}]}},
+  {"bookingCode": "BK-24063", "checkedInAt": "2026-11-06T15:05:00",
+   "invoice": {"number": "INV-1086",
+     "lines": [{"item": "Room 118 Standard", "quantity": 4, "unitPrice": 1200, "amount": 4800},
+               {"item": "Wash and fold", "quantity": 3, "unitPrice": 80, "amount": 240}],
+     "payments": [{"method": "Card", "amount": 2400, "reference": "7310", "paidAt": "2026-11-06T15:06:00"}]}},
+  {"bookingCode": "BK-24051", "checkedInAt": "2026-11-08T08:10:00",
+   "invoice": {"number": "INV-1088",
+     "lines": [{"item": "Room 204 Standard", "quantity": 3, "unitPrice": 1200, "amount": 3600},
+               {"item": "Breakfast", "quantity": 2, "unitPrice": 150, "amount": 300}],
+     "payments": [{"method": "Transfer", "amount": 1800, "reference": "SCB-889120", "paidAt": "2026-11-01T10:15:00"}]}},
+  {"bookingCode": "BK-24052", "checkedInAt": "2026-11-08T09:02:00",
+   "invoice": {"number": "INV-1091",
+     "lines": [{"item": "Room B2 Bungalow", "quantity": 2, "unitPrice": 3800, "amount": 7600}],
+     "payments": []}}
+]

@@ -1,0 +1,7 @@
+[
+  {"staffId": 1, "name": "Nok Saelim", "phone": "081-000-0001", "email": "nok@puttershotel.example", "salary": 18000, "shift": "Morning", "roles": [{"type": "Receptionist", "roleId": "R-01", "rank": 2}]},
+  {"staffId": 2, "name": "Malee Thongdee", "phone": "081-000-0002", "email": "malee@puttershotel.example", "salary": 14000, "shift": "Morning", "roles": [{"type": "Housekeeper", "roleId": "H-01", "rank": 1}]},
+  {"staffId": 3, "name": "Jintana Phrom", "phone": "081-000-0003", "email": "jintana@puttershotel.example", "salary": 14000, "shift": "Afternoon", "roles": [{"type": "Housekeeper", "roleId": "H-02", "rank": 1}]},
+  {"staffId": 4, "name": "Putter Wongchai", "phone": "081-000-0004", "email": "putter@puttershotel.example", "salary": 42000, "shift": "Day", "roles": [{"type": "Manager", "roleId": "M-01", "rank": 5}, {"type": "Receptionist", "roleId": "R-02", "rank": 2}]},
+  {"staffId": 5, "name": "Arthit Chaiyo", "phone": "081-000-0005", "email": "arthit@puttershotel.example", "salary": 16000, "shift": "Day", "roles": [{"type": "TourGuide", "roleId": "T-01", "rank": 1}]}
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "M1", "type": "MEAL", "name": "Breakfast", "unitPrice": 150, "description": "Buffet, 06:30-10:00", "mealType": "Breakfast"},
+  {"id": "M2", "type": "MEAL", "name": "Room-service dinner", "unitPrice": 350, "description": "Set Thai menu to the room", "mealType": "Dinner"},
+  {"id": "L1", "type": "LAUNDRY", "name": "Wash and fold", "unitPrice": 80, "description": "Back next morning", "express": false},
+  {"id": "L2", "type": "LAUNDRY", "name": "Express laundry", "unitPrice": 80, "description": "In by 10:00, back by 18:00", "express": true},
+  {"id": "T1", "type": "TRANSPORT", "name": "Airport pick-up", "unitPrice": 800, "description": "Van, meet at arrivals", "route": "Airport - hotel", "maxPassengers": 6},
+  {"id": "T2", "type": "TRANSPORT", "name": "City drop-off", "unitPrice": 300, "description": "One way", "route": "Within the city", "maxPassengers": 4},
+  {"id": "T3", "type": "TRANSPORT", "name": "Bus terminal transfer", "unitPrice": 200, "description": "One way", "route": "Hotel - bus terminal 2", "maxPassengers": 4},
+  {"id": "TP1", "type": "TOUR", "name": "Phimai half-day tour", "unitPrice": 1200, "description": "Temple, banyan grove, lunch", "activities": ["A1", "A2", "A3"]},
+  {"id": "TP2", "type": "TOUR", "name": "Old town cycling", "unitPrice": 900, "description": "Bikes and guide, 3 hours", "activities": ["A4", "A5"]},
+  {"id": "TP3", "type": "TOUR", "name": "Thai cooking class", "unitPrice": 1300, "description": "Market visit and 4 dishes", "activities": ["A6", "A7"]}
+]
