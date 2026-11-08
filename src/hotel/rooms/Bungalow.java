@@ -1,19 +1,34 @@
 package hotel.rooms;
 
 public class Bungalow extends Room {
-    private double CleaningFee;
+    private double cleaningFee;
 
-    public StandardRoom(String RoomNumber, double Price,double CleaningFee) {
-        super(RoomNumber, Price);
-        this.CleaningFee = CleaningFee;
+    public Bungalow(String roomNumber, double price, double cleaningFee) {
+        super(roomNumber, price);
+        this.cleaningFee = cleaningFee;
     }
 
-    public void setCleaningFee(double CleaningFee) {
-        this.CleaningFee = CleaningFee;
+    public double getCleaningFee() {
+        return cleaningFee;
+    }
+
+    public void setCleaningFee(double cleaningFee) {
+        this.cleaningFee = cleaningFee;
     }
 
     @Override
     public double calculateRate() {
-        return getPrice() + CleaningFee;
+        return getPrice() + cleaningFee;
     }
+
+    @Override
+    public String getTypeName() {
+        return "Bungalow";
+    }
+
+    @Override
+    public int getCapacity() {
+        return 2;
+    }
+
 }
